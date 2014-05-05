@@ -1,5 +1,5 @@
 ---
-title: 为何叫西门粽子？
+title: 为何叫西米粽子？
 layout: page
 ---
 
