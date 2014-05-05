@@ -1,7 +1,7 @@
 markdown: rdiscount
 pygments: true
 permalink: /:title.html
-name: "吕小荣的笔记"
+name: "西米粽子"
 url: "http://mednoter.com"
 description: "医学互联网产品的点点滴滴"
 copyright: "Copyright 2012-2013, mednoter.com"
