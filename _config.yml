@@ -1,0 +1,8 @@
+markdown: rdiscount
+pygments: true
+permalink: /:title.html
+name: "西米粽子"
+url: "http://kanakdillon.github.io"
+description: "笔记，个人感悟。"
+copyright: "Copyright 2012-2013, mednoter.com"
+markdown: rdiscount
